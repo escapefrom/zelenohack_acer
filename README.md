@@ -1,1 +1,3 @@
-# zelenohack_acer
+# Zelenohack - Acer
+
+Для парсинга данных из соц. сетей использовался `parser.py`. Все собранные данные лежат в архиве `datasets.rar`.
